@@ -1,6 +1,6 @@
 # AI for Everyone - Notes and Case Studies
 
-This repository contains detailed notes and case studies from the [*AI for Everyone* course](https://www.deeplearning.ai/courses/ai-for-everyone/) course, offered by Andrew Ng. The notes cover various concepts in AI, including machine learning, data science, and how these technologies are applied in real-world scenarios.
+This repository contains detailed notes and case studies from the [*AI for Everyone* course](https://www.deeplearning.ai/courses/ai-for-everyone/), offered by Andrew Ng. The notes cover various concepts in AI, including machine learning, data science, and how these technologies are applied in real-world scenarios.
 
 ## Overview
 
