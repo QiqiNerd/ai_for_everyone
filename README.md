@@ -1,10 +1,12 @@
 # AI for Everyone - Notes
 
-This repository contains detailed notes and case studies from the [*AI for Everyone*](https://www.deeplearning.ai/courses/ai-for-everyone/), offered by Andrew Ng. The notes cover various concepts in AI, including machine learning, data science, and how these technologies are applied in real-world scenarios.
+- This repository contains detailed notes and case studies from the [*AI for Everyone*](https://www.deeplearning.ai/courses/ai-for-everyone/), offered by Andrew Ng. The notes cover various concepts in AI, including machine learning, data science, and how these technologies are applied in real-world scenarios.
 
-## Purpose of This Repository
-
-These notes are for personal learning and to share insights from the course. The goal is to make complex AI concepts accessible and to provide real-world examples of how AI is transforming various industries.
+- These notes are for personal learning and to share insights from the course. The goal is to make complex AI concepts accessible and to provide real-world examples of how AI is transforming various industries.
+  
+- Each note is written in English with Chinese annotations for key AI concepts, and is intended to serve as a study aid or reference for those who have taken or are interested in the course.
+  
+- The official slides can be found via this [link](https://community.deeplearning.ai/t/ai4e-lecture-notes/52578).
 
 ## Disclaimer
 
