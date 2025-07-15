@@ -1,15 +1,6 @@
-# AI for Everyone - Notes and Case Studies
+# AI for Everyone - Notes
 
-This repository contains detailed notes and case studies from the [*AI for Everyone* course](https://www.deeplearning.ai/courses/ai-for-everyone/), offered by Andrew Ng. The notes cover various concepts in AI, including machine learning, data science, and how these technologies are applied in real-world scenarios.
-
-## Overview
-
-The notes are organized to follow the course structure and include key concepts such as:
-
-- AI project workflows
-- Case studies of AI products (e.g., smart speakers, self-driving cars)
-- Understanding roles in an AI team
-- How to choose, plan, and execute AI projects
+This repository contains detailed notes and case studies from the [*AI for Everyone*](https://www.deeplearning.ai/courses/ai-for-everyone/), offered by Andrew Ng. The notes cover various concepts in AI, including machine learning, data science, and how these technologies are applied in real-world scenarios.
 
 ## Purpose of This Repository
 
@@ -27,7 +18,7 @@ The repository may also contain links or references to external resources that a
 
 1. Clone this repository to your local machine:
     ```
-    git clone https://github.com/your-username/ai-for-everyone-notes.git
+    git clone https://github.com/your-username/ai_for_everyone.git
     ```
 
 2. Explore the case studies and notes organized by the lessons.
